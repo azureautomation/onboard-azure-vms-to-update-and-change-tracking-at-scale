@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 18613,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/onboard-azure-vms-to-update-and-change-tracking-at-scale/master/Enable-MultipleSolution.ps1",
+    "DownloadCount": 2786,
+    "Id": "This-sample-automation-f72ce469",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 33,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-11-29T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This sample automation runbook onboards Azure VMs for either the Update or ChangeTracking (which includes Inventory) solution. It requires an existing Azure VM to already be onboarded to the solution.",
+    "Title": "Onboard Azure VMs to update and change tracking at scale",
+    "UpdatedDate": "2020-9-2T00:00:00",
+    "Url": "https://github.com/azureautomation/onboard-azure-vms-to-update-and-change-tracking-at-scale",
+    "UserTags": "inventory, Windows Update, Windows Azure Virtual Machines"
+}
